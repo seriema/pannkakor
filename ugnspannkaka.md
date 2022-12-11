@@ -10,7 +10,7 @@
 * 3 ägg
 * 3 msk smör
 
-# Gör så här
+## Gör så här
 
 Värm ugnen till 225 grader.
 
